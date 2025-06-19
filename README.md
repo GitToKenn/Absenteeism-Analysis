@@ -77,10 +77,13 @@ _To be determined — exploratory and modeling direction will be added after fur
 
 ## 🛡️ Data Disclaimer
 
-The dataset used in this project is sourced from a Udemy course and is believed to be adapted from real-world absenteeism records. While the data structure and features reflect actual HR analytics use cases, it has likely been anonymised and modified for educational purposes. This ensures a realistic learning experience while preserving data privacy and ethical use.
+The dataset used in this project is derived from the Udemy course *“The Data Analyst Course: Complete Data Analyst Bootcamp”* by 365 Careers.  
+While the data simulates real-world HR absenteeism records, it has been anonymised and adapted for educational use.  
+To respect course content ownership, the original raw dataset is not included in this repository.
 
 ---
 
 ## 📜 License
 
-This project uses synthetic educational data and is shared for learning and portfolio purposes.
+This project is shared for non-commercial, educational, and portfolio purposes only.  
+All credit for the original dataset structure and instructional design belongs to [365 Careers](https://www.udemy.com/user/365careers/), the course creator.
