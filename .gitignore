@@ -1,0 +1,5 @@
+# Ignore raw dataset
+data/absenteeism_dataset_raw.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
