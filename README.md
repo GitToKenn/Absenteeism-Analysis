@@ -6,10 +6,25 @@ This project focuses on cleaning and preparing a simulated HR absenteeism datase
 
 ## 📁 Project Structure
 
-- `README.md` – Project overview and documentation
-- `notebooks/01_data_cleaning.ipynb` – Jupyter Notebook for data cleaning
-- `data/absenteeism_dataset_raw.csv` – Original raw dataset
-- `data/absenteeism_dataset_cleaned_2025-05-31.csv` – Cleaned dataset ready for analysis
+- [README.md](README.md) – Project overview and documentation
+- [data/](data/) – Dataset files
+  - [gamezone_orders_raw.xlsx](data/gamezone_orders_raw.xlsx)
+  - [gamezone_orders_cleaned_2025-06-19.xlsx](data/gamezone_orders_cleaned_2025-06-19.xlsx)
+- [log/](log/) – Data quality logs
+  - [Issue_log.xlsx](log/Issue_log.xlsx)
+- [notebook/](notebook/) – Analysis notebooks (currently empty)
+
+---
+### 📁 Folder Thee
+```
+root/
+├── README.md ← Project overview and documentation
+├── notebooks/
+│ └── 01_data_cleaning.ipynb ← Jupyter Notebook for data cleaning
+└── data/
+├── absenteeism_dataset_raw.csv ← Original raw dataset
+└── absenteeism_dataset_cleaned_2025-05-31.csv ← Cleaned dataset ready for analysis
+```
 
 ---
 
